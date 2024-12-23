@@ -1,16 +1,7 @@
-# pks7
+# Малыгин Т.А. ПКС, работа 7
 
-A new Flutter project.
+![image](https://github.com/user-attachments/assets/d8ed35db-dec9-499b-82e3-b50d847bb1e5)
+![image](https://github.com/user-attachments/assets/c84df2dd-2d3f-4a6c-ba3f-a6e984940817)
+![image](https://github.com/user-attachments/assets/95604caf-cc3a-43f1-ac5c-eae1673fffed)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
